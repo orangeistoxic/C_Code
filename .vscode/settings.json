@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.tabs.defaultColor": null,
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "files.associations": {
+        "array": "cpp"
+    }
+}
